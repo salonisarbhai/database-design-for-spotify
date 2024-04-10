@@ -1,0 +1,223 @@
+UserID,Subscription_Type,Payment_Date,Country,Plan_Duration,Joined_Date,Last_Payment
+1,Basic,10-06-2023,United States,1 Month,15-01-2022,10-06-2023
+2,Premium,22-06-2023,Canada,1 Month,05-09-2021,22-06-2023
+3,Standard,27-06-2023,United Kingdom,1 Month,28-02-2023,27-06-2023
+4,Standard,26-06-2023,Australia,1 Month,10-07-2022,26-06-2023
+5,Basic,28-06-2023,Germany,1 Month,01-05-2023,28-06-2023
+6,Premium,27-06-2023,France,1 Month,18-03-2022,27-06-2023
+7,Standard,25-06-2023,Brazil,1 Month,09-12-2021,25-06-2023
+8,Basic,24-06-2023,Mexico,1 Month,02-04-2023,24-06-2023
+9,Standard,23-06-2023,Spain,1 Month,20-10-2022,23-06-2023
+10,Premium,22-06-2023,Italy,1 Month,07-01-2023,22-06-2023
+11,Basic,22-06-2023,United States,1 Month,16-05-2022,22-06-2023
+12,Premium,28-06-2023,Canada,1 Month,23-03-2023,28-06-2023
+13,Standard,27-06-2023,United Kingdom,1 Month,30-11-2021,27-06-2023
+14,Basic,26-06-2023,Australia,1 Month,01-08-2022,26-06-2023
+15,Standard,28-06-2023,Germany,1 Month,09-05-2023,28-06-2023
+16,Premium,27-06-2023,France,1 Month,07-04-2022,27-06-2023
+17,Basic,25-06-2023,Brazil,1 Month,24-01-2022,25-06-2023
+18,Standard,24-06-2023,Mexico,1 Month,18-10-2021,24-06-2023
+19,Premium,23-06-2023,Spain,1 Month,15-02-2023,23-06-2023
+20,Basic,22-06-2023,Italy,1 Month,27-05-2023,22-06-2023
+21,Premium,22-06-2023,United States,1 Month,10-06-2023,22-06-2023
+22,Basic,28-06-2023,Canada,1 Month,22-07-2022,28-06-2023
+23,Standard,27-06-2023,United Kingdom,1 Month,05-12-2021,27-06-2023
+24,Standard,26-06-2023,Australia,1 Month,03-04-2022,26-06-2023
+25,Basic,28-06-2023,Germany,1 Month,14-03-2023,28-06-2023
+26,Premium,27-06-2023,France,1 Month,12-01-2022,27-06-2023
+27,Basic,25-06-2023,Brazil,1 Month,29-08-2022,25-06-2023
+28,Standard,24-06-2023,Mexico,1 Month,27-09-2021,24-06-2023
+29,Premium,23-06-2023,Spain,1 Month,19-12-2022,23-06-2023
+30,Basic,22-06-2023,Italy,1 Month,17-05-2023,22-06-2023
+31,Premium,22-06-2023,United States,1 Month,03-02-2023,22-06-2023
+32,Basic,28-06-2023,Canada,1 Month,07-07-2022,28-06-2023
+33,Standard,27-06-2023,United Kingdom,1 Month,21-01-2022,27-06-2023
+34,Standard,26-06-2023,Australia,1 Month,25-05-2022,26-06-2023
+35,Basic,28-06-2023,Germany,1 Month,11-04-2023,28-06-2023
+36,Premium,27-06-2023,France,1 Month,01-03-2022,27-06-2023
+37,Basic,25-06-2023,Brazil,1 Month,14-09-2022,25-06-2023
+38,Standard,24-06-2023,Mexico,1 Month,05-11-2021,24-06-2023
+39,Premium,23-06-2023,Spain,1 Month,28-12-2022,23-06-2023
+40,Basic,22-06-2023,Italy,1 Month,07-03-2023,22-06-2023
+41,Premium,22-06-2023,United States,1 Month,20-01-2023,22-06-2023
+42,Basic,28-06-2023,Canada,1 Month,15-06-2022,28-06-2023
+43,Standard,27-06-2023,United Kingdom,1 Month,07-02-2022,27-06-2023
+44,Standard,26-06-2023,Australia,1 Month,26-04-2022,26-06-2023
+45,Basic,28-06-2023,Germany,1 Month,28-01-2023,28-06-2023
+46,Premium,27-06-2023,France,1 Month,23-02-2022,27-06-2023
+47,Basic,25-06-2023,Brazil,1 Month,05-10-2022,25-06-2023
+48,Standard,24-06-2023,Mexico,1 Month,15-09-2021,24-06-2023
+49,Premium,23-06-2023,Spain,1 Month,10-11-2022,23-06-2023
+50,Basic,22-06-2023,Italy,1 Month,02-06-2023,22-06-2023
+51,Premium,22-06-2023,United States,1 Month,27-02-2023,22-06-2023
+52,Basic,28-06-2023,Canada,1 Month,29-08-2022,28-06-2023
+53,Standard,27-06-2023,United Kingdom,1 Month,13-01-2022,27-06-2023
+54,Standard,26-06-2023,Australia,1 Month,30-06-2022,26-06-2023
+55,Basic,28-06-2023,Germany,1 Month,20-04-2023,28-06-2023
+56,Premium,27-06-2023,France,1 Month,15-03-2022,27-06-2023
+57,Basic,25-06-2023,Brazil,1 Month,01-10-2022,25-06-2023
+58,Standard,24-06-2023,Mexico,1 Month,08-10-2021,24-06-2023
+59,Premium,23-06-2023,Spain,1 Month,03-12-2022,23-06-2023
+60,Basic,22-06-2023,Italy,1 Month,14-06-2023,22-06-2023
+61,Premium,22-06-2023,United States,1 Month,08-02-2023,22-06-2023
+62,Basic,28-06-2023,Canada,1 Month,03-08-2022,28-06-2023
+63,Standard,27-06-2023,United Kingdom,1 Month,23-02-2022,27-06-2023
+64,Standard,26-06-2023,Australia,1 Month,20-06-2022,26-06-2023
+65,Basic,28-06-2023,Germany,1 Month,29-03-2023,28-06-2023
+66,Premium,27-06-2023,France,1 Month,30-01-2022,27-06-2023
+67,Basic,25-06-2023,Brazil,1 Month,18-09-2022,25-06-2023
+68,Standard,24-06-2023,Mexico,1 Month,09-11-2021,24-06-2023
+69,Premium,23-06-2023,Spain,1 Month,23-12-2022,23-06-2023
+70,Basic,22-06-2023,Italy,1 Month,08-05-2023,22-06-2023
+71,Basic,20-06-2023,United States,1 Month,26-01-2022,20-06-2023
+72,Basic,22-06-2023,Canada,1 Month,11-10-2022,22-06-2023
+73,Standard,26-06-2023,United Kingdom,1 Month,27-09-2022,26-06-2023
+74,Premium,25-06-2023,Australia,1 Month,14-12-2022,25-06-2023
+75,Basic,26-06-2023,Germany,1 Month,28-05-2022,26-06-2023
+76,Basic,26-06-2023,France,1 Month,29-12-2021,26-06-2023
+77,Premium,23-06-2023,Brazil,1 Month,25-12-2022,23-06-2023
+78,Standard,28-06-2023,Mexico,1 Month,18-11-2022,28-06-2023
+79,Standard,25-06-2023,Spain,1 Month,03-12-2022,25-06-2023
+80,Basic,22-06-2023,Italy,1 Month,08-11-2022,22-06-2023
+81,Premium,24-06-2023,United States,1 Month,11-01-2023,24-06-2023
+82,Standard,28-06-2023,Canada,1 Month,07-12-2022,28-06-2023
+83,Basic,26-06-2023,United Kingdom,1 Month,20-10-2022,26-06-2023
+84,Standard,25-06-2023,Australia,1 Month,13-04-2023,25-06-2023
+85,Premium,27-06-2023,Germany,1 Month,06-04-2023,27-06-2023
+86,Basic,25-06-2023,France,1 Month,04-03-2022,25-06-2023
+87,Premium,23-06-2023,Brazil,1 Month,28-12-2021,23-06-2023
+88,Standard,28-06-2023,Mexico,1 Month,27-09-2022,28-06-2023
+89,Basic,26-06-2023,Spain,1 Month,20-10-2022,26-06-2023
+90,Standard,23-06-2023,Italy,1 Month,03-02-2023,23-06-2023
+91,Premium,23-06-2023,United States,1 Month,03-10-2022,23-06-2023
+92,Basic,28-06-2023,Canada,1 Month,05-01-2022,28-06-2023
+93,Standard,26-06-2023,United Kingdom,1 Month,05-02-2022,26-06-2023
+94,Premium,25-06-2023,Australia,1 Month,19-03-2022,25-06-2023
+95,Basic,25-06-2023,Germany,1 Month,28-02-2022,25-06-2023
+96,Premium,24-06-2023,France,1 Month,26-07-2022,24-06-2023
+97,Basic,24-06-2023,Brazil,1 Month,05-03-2022,24-06-2023
+98,Standard,28-06-2023,Mexico,1 Month,07-03-2022,28-06-2023
+99,Standard,24-06-2023,Spain,1 Month,13-01-2023,24-06-2023
+100,Basic,25-06-2023,Italy,1 Month,22-01-2023,25-06-2023
+101,Premium,24-06-2023,United States,1 Month,17-10-2022,24-06-2023
+102,Basic,28-06-2023,Canada,1 Month,29-03-2022,28-06-2023
+103,Standard,26-06-2023,United Kingdom,1 Month,04-04-2022,26-06-2023
+104,Premium,25-06-2023,Australia,1 Month,08-06-2022,25-06-2023
+105,Basic,27-06-2023,Germany,1 Month,04-03-2022,27-06-2023
+106,Premium,24-06-2023,France,1 Month,18-03-2022,24-06-2023
+107,Basic,24-06-2023,Brazil,1 Month,07-03-2022,24-06-2023
+108,Standard,25-06-2023,Mexico,1 Month,24-05-2022,25-06-2023
+109,Standard,25-06-2023,Spain,1 Month,08-02-2023,25-06-2023
+110,Basic,24-06-2023,Italy,1 Month,26-01-2023,24-06-2023
+111,Premium,27-06-2023,United States,1 Month,14-07-2022,27-06-2023
+112,Basic,28-06-2023,Canada,1 Month,01-06-2022,28-06-2023
+113,Standard,26-06-2023,United Kingdom,1 Month,07-05-2022,26-06-2023
+114,Premium,25-06-2023,Australia,1 Month,18-11-2022,25-06-2023
+115,Basic,25-06-2023,Germany,1 Month,05-04-2022,25-06-2023
+116,Premium,23-06-2023,France,1 Month,19-05-2022,23-06-2023
+117,Basic,23-06-2023,Brazil,1 Month,30-10-2021,23-06-2023
+118,Standard,27-06-2023,Mexico,1 Month,07-08-2022,27-06-2023
+119,Standard,25-06-2023,Spain,1 Month,20-09-2022,25-06-2023
+120,Basic,25-06-2023,Italy,1 Month,18-10-2022,25-06-2023
+121,Premium,24-06-2023,United States,1 Month,03-10-2022,24-06-2023
+122,Basic,28-06-2023,Canada,1 Month,03-05-2022,28-06-2023
+123,Standard,26-06-2023,United Kingdom,1 Month,25-05-2022,26-06-2023
+124,Premium,25-06-2023,Australia,1 Month,05-11-2022,25-06-2023
+125,Basic,24-06-2023,Germany,1 Month,21-08-2022,24-06-2023
+126,Premium,23-06-2023,France,1 Month,21-09-2022,23-06-2023
+127,Basic,23-06-2023,Brazil,1 Month,23-11-2021,23-06-2023
+128,Standard,27-06-2023,Mexico,1 Month,06-10-2022,27-06-2023
+129,Standard,23-06-2023,Spain,1 Month,05-11-2022,23-06-2023
+130,Basic,23-06-2023,Italy,1 Month,07-01-2023,23-06-2023
+131,Premium,23-06-2023,United States,1 Month,06-10-2022,23-06-2023
+132,Basic,28-06-2023,Canada,1 Month,24-06-2022,28-06-2023
+133,Standard,26-06-2023,United Kingdom,1 Month,24-06-2022,26-06-2023
+134,Premium,25-06-2023,Australia,1 Month,05-11-2022,25-06-2023
+135,Basic,26-06-2023,Germany,1 Month,18-07-2022,26-06-2023
+136,Premium,26-06-2023,France,1 Month,13-09-2022,26-06-2023
+137,Basic,22-06-2023,Brazil,1 Month,10-08-2022,22-06-2023
+138,Standard,23-06-2023,Mexico,1 Month,21-09-2022,23-06-2023
+139,Standard,23-06-2023,Spain,1 Month,24-03-2023,23-06-2023
+140,Basic,23-06-2023,Italy,1 Month,02-05-2022,23-06-2023
+141,Premium,27-06-2023,United States,1 Month,11-05-2022,27-06-2023
+142,Basic,22-06-2023,Canada,1 Month,10-06-2022,22-06-2023
+143,Standard,24-06-2023,United Kingdom,1 Month,31-08-2022,24-06-2023
+144,Premium,26-06-2023,Australia,1 Month,17-08-2022,26-06-2023
+145,Basic,26-06-2023,Germany,1 Month,05-05-2022,26-06-2023
+146,Basic,25-06-2023,France,1 Month,06-10-2022,25-06-2023
+147,Basic,24-06-2023,Brazil,1 Month,08-11-2022,24-06-2023
+148,Standard,28-06-2023,Mexico,1 Month,27-11-2022,28-06-2023
+149,Premium,27-06-2023,Spain,1 Month,17-11-2022,27-06-2023
+150,Basic,23-06-2023,Italy,1 Month,15-12-2022,23-06-2023
+151,Basic,25-06-2023,United States,1 Month,12-12-2022,25-06-2023
+152,Premium,27-06-2023,Canada,1 Month,23-11-2022,27-06-2023
+153,Standard,24-06-2023,United Kingdom,1 Month,25-12-2022,24-06-2023
+154,Standard,27-06-2023,Australia,1 Month,11-03-2023,27-06-2023
+155,Basic,27-06-2023,Germany,1 Month,18-11-2022,27-06-2023
+156,Premium,25-06-2023,France,1 Month,19-08-2022,25-06-2023
+157,Standard,24-06-2023,Brazil,1 Month,27-09-2022,24-06-2023
+158,Basic,28-06-2023,Mexico,1 Month,19-10-2022,28-06-2023
+159,Standard,26-06-2023,Spain,1 Month,21-12-2022,26-06-2023
+160,Premium,25-06-2023,Italy,1 Month,27-10-2022,25-06-2023
+161,Basic,24-06-2023,United States,1 Month,23-10-2022,24-06-2023
+162,Premium,25-06-2023,Canada,1 Month,19-04-2022,25-06-2023
+163,Standard,26-06-2023,United Kingdom,1 Month,05-04-2022,26-06-2023
+164,Basic,26-06-2023,Australia,1 Month,11-03-2022,26-06-2023
+165,Standard,25-06-2023,Germany,1 Month,25-05-2022,25-06-2023
+166,Premium,26-06-2023,France,1 Month,16-04-2022,26-06-2023
+167,Basic,24-06-2023,Brazil,1 Month,07-04-2022,24-06-2023
+168,Standard,28-06-2023,Mexico,1 Month,11-12-2022,28-06-2023
+169,Premium,26-06-2023,Spain,1 Month,20-01-2023,26-06-2023
+170,Basic,25-06-2023,Italy,1 Month,12-01-2023,25-06-2023
+171,Premium,24-06-2023,United States,1 Month,29-04-2022,24-06-2023
+172,Basic,26-06-2023,Canada,1 Month,27-04-2022,26-06-2023
+173,Standard,25-06-2023,United Kingdom,1 Month,03-06-2022,25-06-2023
+174,Standard,25-06-2023,Australia,1 Month,23-04-2022,25-06-2023
+175,Basic,26-06-2023,Germany,1 Month,22-04-2022,26-06-2023
+176,Premium,25-06-2023,France,1 Month,12-04-2022,25-06-2023
+177,Basic,26-06-2023,Brazil,1 Month,23-05-2022,26-06-2023
+178,Standard,26-06-2023,Mexico,1 Month,19-10-2022,26-06-2023
+179,Premium,26-06-2023,Spain,1 Month,03-12-2022,26-06-2023
+180,Basic,25-06-2023,Italy,1 Month,26-09-2022,25-06-2023
+181,Premium,27-06-2023,United States,1 Month,16-06-2022,27-06-2023
+182,Basic,25-06-2023,Canada,1 Month,16-05-2022,25-06-2023
+183,Standard,26-06-2023,United Kingdom,1 Month,26-05-2022,26-06-2023
+184,Standard,25-06-2023,Australia,1 Month,26-04-2022,25-06-2023
+185,Basic,25-06-2023,Germany,1 Month,12-05-2022,25-06-2023
+186,Premium,25-06-2023,France,1 Month,01-03-2022,25-06-2023
+187,Basic,24-06-2023,Brazil,1 Month,10-07-2022,24-06-2023
+188,Standard,27-06-2023,Mexico,1 Month,16-07-2022,27-06-2023
+189,Premium,26-06-2023,Spain,1 Month,02-09-2022,26-06-2023
+190,Basic,26-06-2023,Italy,1 Month,18-09-2022,26-06-2023
+191,Premium,25-06-2023,United States,1 Month,08-07-2022,25-06-2023
+192,Basic,27-06-2023,Canada,1 Month,26-06-2022,27-06-2023
+193,Standard,25-06-2023,United Kingdom,1 Month,05-08-2022,25-06-2023
+194,Standard,27-06-2023,Australia,1 Month,19-08-2022,27-06-2023
+195,Basic,24-06-2023,Germany,1 Month,26-08-2022,24-06-2023
+196,Premium,24-06-2023,France,1 Month,09-06-2022,24-06-2023
+197,Basic,23-06-2023,Brazil,1 Month,27-09-2022,23-06-2023
+198,Standard,27-06-2023,Mexico,1 Month,18-10-2022,27-06-2023
+199,Premium,25-06-2023,Spain,1 Month,31-10-2022,25-06-2023
+200,Basic,25-06-2023,Italy,1 Month,13-10-2022,25-06-2023
+201,Premium,27-06-2023,United States,1 Month,04-07-2022,27-06-2023
+202,Basic,27-06-2023,Canada,1 Month,26-06-2022,27-06-2023
+203,Standard,24-06-2023,United Kingdom,1 Month,31-07-2022,24-06-2023
+204,Standard,24-06-2023,Australia,1 Month,27-07-2022,24-06-2023
+205,Basic,25-06-2023,Germany,1 Month,30-07-2022,25-06-2023
+206,Premium,25-06-2023,France,1 Month,06-08-2022,25-06-2023
+207,Basic,24-06-2023,Brazil,1 Month,16-09-2022,24-06-2023
+208,Standard,23-06-2023,Mexico,1 Month,05-01-2023,23-06-2023
+209,Premium,24-06-2023,Spain,1 Month,10-12-2022,24-06-2023
+210,Basic,26-06-2023,Italy,1 Month,22-11-2022,26-06-2023
+211,Premium,27-06-2023,United States,1 Month,15-11-2022,27-06-2023
+212,Basic,26-06-2023,Canada,1 Month,28-10-2022,26-06-2023
+213,Standard,24-06-2023,United Kingdom,1 Month,08-09-2022,24-06-2023
+214,Standard,28-06-2023,Australia,1 Month,30-06-2022,28-06-2023
+215,Basic,27-06-2023,Germany,1 Month,02-09-2022,27-06-2023
+216,Premium,24-06-2023,France,1 Month,08-10-2022,24-06-2023
+217,Basic,25-06-2023,Brazil,1 Month,13-11-2022,25-06-2023
+218,Standard,28-06-2023,Mexico,1 Month,15-11-2022,28-06-2023
+219,Premium,25-06-2023,Spain,1 Month,16-11-2022,25-06-2023
+220,Basic,27-06-2023,Italy,1 Month,26-11-2022,27-06-2023
+221,Basic,25-06-2023,United States,1 Month,26-11-2022,25-06-2023
+222,Basic,26-06-2023,Canada,1 Month,12-12-2022,26-06-2023

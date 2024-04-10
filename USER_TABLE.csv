@@ -1,0 +1,223 @@
+UserID,Age,Gender,Device
+1,28,Male,Smartphone
+2,35,Female,Tablet
+3,42,Male,Smart TV
+4,51,Female,Laptop
+5,33,Male,Smartphone
+6,29,Female,Smart TV
+7,46,Male,Tablet
+8,39,Female,Laptop
+9,37,Male,Smartphone
+10,44,Female,Smart TV
+11,31,Female,Smartphone
+12,45,Male,Tablet
+13,48,Female,Laptop
+14,27,Male,Smartphone
+15,38,Female,Smart TV
+16,36,Male,Tablet
+17,30,Female,Laptop
+18,43,Male,Smartphone
+19,32,Female,Smart TV
+20,41,Male,Tablet
+21,26,Female,Laptop
+22,34,Male,Smartphone
+23,49,Female,Smart TV
+24,31,Male,Tablet
+25,40,Female,Laptop
+26,29,Male,Smartphone
+27,47,Female,Smart TV
+28,33,Male,Tablet
+29,36,Female,Laptop
+30,42,Male,Smartphone
+31,28,Female,Smart TV
+32,37,Male,Tablet
+33,41,Female,Laptop
+34,29,Male,Smartphone
+35,39,Female,Smart TV
+36,35,Male,Tablet
+37,45,Female,Laptop
+38,32,Male,Smartphone
+39,27,Female,Smart TV
+40,48,Male,Tablet
+41,31,Female,Laptop
+42,40,Male,Smartphone
+43,36,Female,Smart TV
+44,29,Male,Tablet
+45,43,Female,Laptop
+46,34,Male,Smartphone
+47,39,Female,Smart TV
+48,32,Male,Tablet
+49,28,Female,Laptop
+50,45,Male,Smartphone
+51,30,Female,Smart TV
+52,37,Male,Tablet
+53,41,Female,Laptop
+54,29,Male,Smartphone
+55,39,Female,Smart TV
+56,36,Male,Tablet
+57,46,Female,Laptop
+58,34,Male,Smartphone
+59,27,Female,Smart TV
+60,42,Male,Tablet
+61,28,Female,Laptop
+62,37,Male,Smartphone
+63,41,Female,Smart TV
+64,29,Male,Tablet
+65,40,Female,Laptop
+66,29,Male,Smartphone
+67,47,Female,Smart TV
+68,33,Male,Tablet
+69,36,Female,Laptop
+70,41,Male,Smartphone
+71,27,Male,Smartphone
+72,31,Female,Smartphone
+73,28,Female,Laptop
+74,41,Female,Smartphone
+75,28,Female,Laptop
+76,51,Female,Laptop
+77,45,Female,Smartphone
+78,49,Male,Tablet
+79,43,Female,Laptop
+80,43,Male,Tablet
+81,37,Male,Tablet
+82,35,Male,Laptop
+83,46,Female,Smartphone
+84,32,Male,Smartphone
+85,37,Female,Laptop
+86,29,Female,Smartphone
+87,45,Male,Smart TV
+88,47,Male,Tablet
+89,39,Male,Smartphone
+90,49,Female,Smartphone
+91,39,Male,Tablet
+92,39,Male,Smart TV
+93,35,Male,Smartphone
+94,44,Male,Smartphone
+95,34,Male,Laptop
+96,32,Male,Laptop
+97,29,Female,Tablet
+98,31,Female,Tablet
+99,29,Female,Tablet
+100,35,Male,Laptop
+101,46,Female,Tablet
+102,31,Male,Tablet
+103,36,Male,Laptop
+104,38,Male,Laptop
+105,46,Female,Laptop
+106,49,Female,Tablet
+107,29,Female,Smart TV
+108,27,Female,Smart TV
+109,35,Female,Tablet
+110,37,Female,Laptop
+111,40,Male,Tablet
+112,33,Female,Laptop
+113,37,Male,Tablet
+114,48,Male,Smartphone
+115,50,Female,Laptop
+116,45,Female,Smart TV
+117,40,Female,Tablet
+118,33,Male,Smartphone
+119,44,Female,Smartphone
+120,30,Female,Smart TV
+121,27,Male,Smart TV
+122,51,Male,Smart TV
+123,49,Female,Smartphone
+124,43,Male,Laptop
+125,42,Male,Smartphone
+126,45,Male,Laptop
+127,36,Male,Smartphone
+128,48,Male,Smartphone
+129,38,Male,Smart TV
+130,43,Female,Tablet
+131,47,Male,Laptop
+132,48,Female,Smart TV
+133,47,Male,Smart TV
+134,32,Male,Tablet
+135,47,Female,Smart TV
+136,41,Female,Smart TV
+137,49,Male,Laptop
+138,28,Male,Laptop
+139,40,Male,Smartphone
+140,43,Female,Smartphone
+141,42,Male,Smartphone
+142,28,Male,Smart TV
+143,30,Female,Tablet
+144,33,Male,Smart TV
+145,35,Female,Laptop
+146,38,Male,Tablet
+147,49,Female,Laptop
+148,39,Female,Smartphone
+149,46,Female,Smart TV
+150,47,Female,Laptop
+151,30,Female,Laptop
+152,33,Female,Tablet
+153,47,Male,Smartphone
+154,27,Male,Laptop
+155,28,Male,Tablet
+156,47,Male,Smartphone
+157,30,Male,Laptop
+158,47,Female,Smartphone
+159,51,Female,Smart TV
+160,39,Male,Smartphone
+161,45,Male,Tablet
+162,31,Male,Laptop
+163,29,Male,Laptop
+164,42,Female,Tablet
+165,49,Male,Tablet
+166,42,Male,Laptop
+167,29,Male,Smartphone
+168,29,Male,Tablet
+169,49,Male,Tablet
+170,32,Male,Laptop
+171,35,Female,Tablet
+172,39,Female,Smartphone
+173,40,Male,Smartphone
+174,39,Female,Tablet
+175,47,Female,Laptop
+176,37,Female,Smart TV
+177,27,Female,Smartphone
+178,49,Female,Laptop
+179,30,Female,Tablet
+180,36,Male,Laptop
+181,33,Male,Smartphone
+182,30,Female,Laptop
+183,36,Female,Tablet
+184,28,Female,Laptop
+185,47,Female,Tablet
+186,33,Female,Smart TV
+187,49,Female,Laptop
+188,44,Female,Smart TV
+189,47,Male,Smart TV
+190,37,Female,Tablet
+191,46,Male,Laptop
+192,50,Female,Smartphone
+193,50,Male,Laptop
+194,37,Male,Laptop
+195,50,Female,Smartphone
+196,45,Female,Smart TV
+197,45,Male,Tablet
+198,49,Female,Laptop
+199,39,Female,Tablet
+200,45,Female,Tablet
+201,49,Female,Smart TV
+202,31,Female,Tablet
+203,42,Female,Smart TV
+204,37,Male,Smartphone
+205,30,Male,Smart TV
+206,40,Male,Smartphone
+207,45,Female,Smartphone
+208,36,Female,Tablet
+209,41,Male,Laptop
+210,49,Female,Laptop
+211,40,Male,Tablet
+212,36,Male,Smart TV
+213,49,Female,Smart TV
+214,43,Female,Laptop
+215,50,Female,Smartphone
+216,51,Female,Smart TV
+217,44,Male,Smart TV
+218,27,Male,Tablet
+219,46,Female,Smartphone
+220,29,Male,Tablet
+221,47,Male,Smartphone
+222,48,Female,Smartphone
